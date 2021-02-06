@@ -1,6 +1,6 @@
 # DustStructures
 
-I need a place to practive data structures, so here it is
+I need a place to practice data structures, so here it is
 
 ## Prerequisites
 
